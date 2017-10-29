@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <style name="CordovaPluginSplashTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowBackground">@drawable/cordova_plugin_splash_background</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
